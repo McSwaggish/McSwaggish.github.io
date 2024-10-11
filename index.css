@@ -8,17 +8,17 @@
 
 @font-face {
     font-family: title_font;
-    src: url(assets/fonts/OTF/Satoshi-Bold.otf);
+    src: url(Satoshi-Bold.otf);
 }
 
 @font-face {
     font-family: bread_font;
-    src: url(assets/fonts/OTF/Satoshi-Bold.otf);
+    src: url(Satoshi-Bold.otf);
 }
 
 @font-face {
     font-family: menu_font;
-    src: url(assets/fonts/OTF/Satoshi-Light.otf);
+    src: url(Satoshi-Light.otf);
 }
 
 body {
