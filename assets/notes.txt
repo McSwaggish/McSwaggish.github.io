@@ -1,0 +1,6 @@
+colour palette:
+#1B2021
+#30343F
+#89023E
+#EA638C
+#FFD9DA
