@@ -72,7 +72,7 @@ body {
 #header h1 {
     font-family: title_font;
     font-size: 45px;
-    padding-left: 3vw;
+    padding-left: 4vw;
     transition: 400ms ease;
 }
 
@@ -120,6 +120,7 @@ body {
 
 #intro p {
     font-size: medium;
+    word-wrap: break-word;
 }
 
 .menu_item {
